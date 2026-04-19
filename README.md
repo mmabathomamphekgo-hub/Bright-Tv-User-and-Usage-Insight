@@ -1,6 +1,6 @@
 # Bright-Tv-User-and-Usage-Insight
 
- **Project Summary**
+ **Project Summary:**
 An end-to-end data analytics project analyzing user growth, engagement, and content consumption patterns on BrightTV. This dashboard translates raw usage data into actionable insights that inform content strategy, marketing effectiveness, and user retention.
 
 **Business Problem:**
